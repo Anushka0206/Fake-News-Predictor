@@ -1,4 +1,4 @@
-#Fake News Detection using NLP in Jupyter Notebook
+# Fake News Detection using NLP in Jupyter Notebook
 This project aims to detect fake news articles using Natural Language Processing (NLP) and Machine Learning techniques within a Jupyter Notebook environment. The model is trained to classify news as FAKE or REAL based on the article content.
 
 ## Environment
