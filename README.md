@@ -88,3 +88,31 @@ Fake-News-Detection/
 ├── fake_news_detection.ipynb
 ├── Fake.csv
 ├── README.md
+
+## Sample Output
+
+Accuracy: 0.985
+Classification Report:
+              precision    recall  f1-score   support
+
+       Real       0.98      0.99      0.99       780
+       Fake       0.99      0.98      0.98       776
+
+    accuracy                           0.98      1556
+   macro avg       0.98      0.98      0.98      1556
+weighted avg       0.98      0.98      0.98      1556
+Confusion Matrix:
+
+Predicted Real	Predicted Fake
+Real	770	10
+Fake	14	762
+
+#### Output Visualization
+A heatmap showing the confusion matrix:
+
+X-axis: Predicted labels
+
+Y-axis: True labels
+
+Annotated values
+
