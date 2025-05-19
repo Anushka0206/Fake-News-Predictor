@@ -15,9 +15,17 @@ NLTK – text preprocessing
 
 Scikit-learn – machine learning tools
 
-## Dataset
-The dataset used is Fake.csv, which contains:
 
+##  Dataset
+
+This project uses the **Fake and Real News Dataset** from Kaggle.
+
+##### [Click here to view/download the dataset on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+
+After downloading, extract the zip and place the `Fake.csv` file in your project directory.
+
+**The dataset used is Fake.csv, which contains:
+**
 title – Headline of the news article
 
 text – Full content of the article
