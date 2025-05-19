@@ -24,8 +24,8 @@ This project uses the **Fake and Real News Dataset** from Kaggle.
 
 After downloading, extract the zip and place the `Fake.csv` file in your project directory.
 
-**The dataset used is Fake.csv, which contains:
-**
+**The dataset used is Fake.csv, which contains**:
+
 title – Headline of the news article
 
 text – Full content of the article
