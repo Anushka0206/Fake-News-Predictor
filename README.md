@@ -60,7 +60,7 @@ Train model
 
 Evaluate results
 
-##Output
+## Output
 Accuracy Score of the model
 
 Classification Report with precision, recall, F1-score
@@ -80,22 +80,22 @@ Model Training – Logistic Regression
 
 Evaluation – Accuracy, Confusion Matrix, Report
 
-##Future Scope
+## Future Scope
 Experiment with other models (SVM, Naive Bayes, Random Forest)
 
 Add LSTM or Transformer-based Deep Learning models
 
 Build a web interface using Flask or Streamlit for live news testing
 
-##Folder Structure
+## Folder Structure
 python
 Copy
 Edit
-Fake-News-Detection/
-│
-├── fake_news_detection.ipynb
-├── Fake.csv
-├── README.md
+Fake-News-Detection/<br>
+│<br>
+├── fake_news_detection.ipynb <br>
+├── Fake.csv <br>
+├── README.md <br>
 
 ## Sample Output
 
